@@ -5,7 +5,7 @@ Key Features:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Register and Login Management:
 
-Login Page: ![Screenshot 2024-10-17 174851](https://github.com/user-attachments/assets/ce0916e9-459c-401e-8485-629ff0ffe971)
+ ![Screenshot 2024-10-17 174851](https://github.com/user-attachments/assets/ce0916e9-459c-401e-8485-629ff0ffe971)
 
 
 Multi-Channel Order Handling: Supports dine-in, takeaway, delivery, and online orders, all integrated into one system.
@@ -14,7 +14,7 @@ Order Tracking and Notifications: Real-time tracking for each order stage (prepa
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Inventory Management with REmed:
 
-Inventory System: ![Screenshot 2024-10-17 175147](https://github.com/user-attachments/assets/fc99afad-e740-4f01-92eb-7af4a29ac376)
+ ![Screenshot 2024-10-17 175147](https://github.com/user-attachments/assets/fc99afad-e740-4f01-92eb-7af4a29ac376)
 
 
 
@@ -61,6 +61,11 @@ Mobile POS Support: Compatible with tablets or smartphones, enabling staff to ta
 Multi-Payment Options: Accepts cash, credit/debit cards, mobile payments, and digital wallets, with secure processing to ensure customer trust.
 Multi-Location Support (Optional):
 
+final Bill System :
+
+
+<img width="397" alt="image" src="https://github.com/user-attachments/assets/6a55c000-ab9c-4e00-98e9-f086160dba78">
+
 Centralized Management: Allows owners of multiple locations to view and manage all sites from one dashboard.
 Location-Based Analytics: Generates separate reports and inventories for each branch, with comparisons for better strategic decisions.
 User Permissions and Security:
@@ -70,6 +75,4 @@ Audit Trail and Activity Logs: Tracks system usage and any changes made to inven
 Data Encryption and Backup: Ensures all sensitive data is encrypted and offers automated backup solutions to prevent data loss.
 Integration and Customization Options:
 
-Third-Party Integrations: Compatible with accounting software (e.g., QuickBooks), online delivery platforms, and email/SMS providers.
-API Access for Customization: Offers API endpoints for customization, allowing cafes to extend system functionality or integrate with other business tools.
 
