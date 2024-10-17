@@ -5,11 +5,18 @@ Key Features:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Order Management:
 
+Oreder Management:   ![Screenshot 2024-10-17 175147](https://github.com/user-attachments/assets/2615fbf4-55e5-461f-9af0-5346594e6552)
+
 Multi-Channel Order Handling: Supports dine-in, takeaway, delivery, and online orders, all integrated into one system.
 Customizable Menus: Allows cafes to create, edit, and categorize menu items, including pricing, descriptions, and add-ons or modifications.
 Order Tracking and Notifications: Real-time tracking for each order stage (preparation, ready for pickup, or served) with customizable notifications to staff and customers.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Inventory Management with REmed:
+
+Inventory System: ![Screenshot 2024-10-17 175147](https://github.com/user-attachments/assets/fc99afad-e740-4f01-92eb-7af4a29ac376)
+
+
+
 The REmed (Remediation) module is designed to handle complex inventory challenges, minimizing waste and ensuring product availability. Key features include:
 
 Real-Time Inventory Updates: Each sale automatically updates stock levels, giving managers immediate visibility on inventory status.
@@ -17,7 +24,6 @@ Automated Low-Stock Alerts and Reordering: Sends notifications when inventory le
 Inventory Analytics and Forecasting: Provides data insights to forecast demand based on sales trends, seasonal variations, and customer preferences.
 Waste Tracking and Reporting: Records expired or wasted items to improve ordering accuracy and reduce waste.
 Supplier Management: Enables tracking of supplier details, order history, and pricing to streamline procurement and manage costs.
-Employee Management:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Scheduling and Shift Management: 
 
@@ -27,6 +33,8 @@ Payroll Calculation and Export: Automatically calculates hours worked, overtime,
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Sales and Financial Reporting:
+
+
 
 Detailed Sales Reports: Generates daily, weekly, monthly, and custom-period reports to monitor revenue, best-selling items, and customer preferences.
 Expense Management: Tracks overhead costs, including ingredients, labor, utilities, and other expenses.
@@ -39,6 +47,8 @@ Loyalty Rewards System: Provides point-based rewards, discounts, or special prom
 Feedback and Survey Integration: Gathers customer feedback on their experience, enabling targeted improvements and tracking customer satisfaction.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Point of Sale (POS) Integration:
+
+Print Billing System:  ![Screenshot 2024-10-17 175231](https://github.com/user-attachments/assets/825c90f2-9bac-4091-93fd-79da979ed846)
 
 Seamless POS Functionality: Provides an intuitive POS interface for quick order-taking, payment processing, and receipt printing.
 Mobile POS Support: Compatible with tablets or smartphones, enabling staff to take orders at the table or on the go.
