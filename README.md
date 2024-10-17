@@ -3,9 +3,10 @@
 
 Key Features:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Order Management:
+Register and Login Management:
 
-Oreder Management:   ![Screenshot 2024-10-17 175147](https://github.com/user-attachments/assets/2615fbf4-55e5-461f-9af0-5346594e6552)
+Login Page: ![Screenshot 2024-10-17 174851](https://github.com/user-attachments/assets/ce0916e9-459c-401e-8485-629ff0ffe971)
+
 
 Multi-Channel Order Handling: Supports dine-in, takeaway, delivery, and online orders, all integrated into one system.
 Customizable Menus: Allows cafes to create, edit, and categorize menu items, including pricing, descriptions, and add-ons or modifications.
@@ -26,6 +27,11 @@ Waste Tracking and Reporting: Records expired or wasted items to improve orderin
 Supplier Management: Enables tracking of supplier details, order history, and pricing to streamline procurement and manage costs.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Scheduling and Shift Management: 
+
+Dashboard Menu:  
+
+![Screenshot 2024-10-17 175125](https://github.com/user-attachments/assets/07391bb9-8e7a-4e93-b398-575f3b00967a)
+
 
 Provides easy scheduling for staff members, helping to manage peak hours and avoid under- or over-staffing.
 Time and Attendance Tracking: Tracks employee clock-in and clock-out times, with support for biometric or ID-based authentication if needed.
