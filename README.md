@@ -74,5 +74,21 @@ Role-Based Access Control: Provides permissions for different roles (e.g., admin
 Audit Trail and Activity Logs: Tracks system usage and any changes made to inventory, orders, or settings for accountability.
 Data Encryption and Backup: Ensures all sensitive data is encrypted and offers automated backup solutions to prevent data loss.
 Integration and Customization Options:
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ Dataabase FOR Cafe-Bill_system 
+
+Product Menu :
+<img width="644" alt="image" src="https://github.com/user-attachments/assets/c4e9ac79-5aef-4cf6-a788-c950db9c8445">
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+User Login/Register :
+
+<img width="508" alt="image" src="https://github.com/user-attachments/assets/844f8da1-b1ec-4117-bfa0-8db2a2bdb46d">
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Transction Menu: 
+
+<img width="464" alt="image" src="https://github.com/user-attachments/assets/a94091fd-7762-496e-aded-5e791ac5a39d">
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
